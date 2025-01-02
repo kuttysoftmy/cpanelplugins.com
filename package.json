@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@gridsome/plugin-sitemap": "^0.4.0",
-    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/plugin-google-analytics": "^0.1.2",
     "clipboard-copy": "^3.0.0",
     "gridsome": "^0.7.0",
     "marked": "^0.7.0",
